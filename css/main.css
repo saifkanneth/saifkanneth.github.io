@@ -673,7 +673,13 @@ left: 0px;
         position: relative;
         
     }
-    .sec1_left,.sec1_right,.land_dir,.img_main{
+    .sec1_left{
+        bottom: -25px;
+         position: relative !important;
+        text-align: center;
+        color: white;
+    }
+    .sec1_right,.land_dir,.img_main{
         position: relative !important;
         bottom: 0px !important;
         text-align: center;

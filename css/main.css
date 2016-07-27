@@ -197,10 +197,7 @@
 .img_main img{
         width: 320px;
     left: -93px;
-     -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
-    -khtml-border-radius: 50%;
+    
     position: relative;
      vertical-align: middle;
     top: 0px;

@@ -390,7 +390,7 @@
    
 }
 .work_sample{
-        height: 250px;
+    
     padding-left: 5px;
     padding-right: 5px;
     overflow: hidden;
@@ -752,7 +752,9 @@ left: 0px;
     #section1{
         height: 100vh;
     }
-    
+    .work_img img{
+        width: 100%;
+    }
     .skill{
         padding-left: 4px;
     padding-right: 4px;

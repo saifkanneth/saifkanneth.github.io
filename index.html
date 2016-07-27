@@ -13,7 +13,7 @@
     <body>
 
        
-                <div class="parallax">
+                <div class="parallax hide">
                     <div class="main_menu">
            <div class="main_menu_item">
 
@@ -330,10 +330,26 @@
                     </div>
         </div>
     </div>
+    <div id="preloader">
+	<div id="status"><img src="./assets/status.gif"/></div>
+</div>
     </div>
+    
         <link rel="stylesheet" href="bootstrap/bootstrap.min.css"/>
         <link rel="stylesheet" href="css/main.css"/>
         <link rel="stylesheet" href="css/font-awesome.min.css"/>
         <link rel="stylesheet" href="css/jQuery-plugin-progressbar.css"/>
+
+        <script type="text/javascript">
+            $(window).load(function() { // makes sure the whole site is loaded
+			//$('#status').fadeOut(); // will first fade out the loading animation
+			$('#preloader').delay(350).fadeOut('slow',function(){onReady()}); // will fade out the white DIV that covers the website.
+           
+			$('.parallax').removeClass('hide');
+            
+		    })
+
+        </script>
+
     </body>
 </html>

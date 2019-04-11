@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="retry0000" x="2" y="2" width="349" height="102" pivotX="3.45" pivotY="1"/>
+	<SubTexture name="retry0001" x="2" y="106" width="349" height="102"/>
+	<SubTexture name="retry0002" x="2" y="210" width="349" height="102"/>
+</TextureAtlas>

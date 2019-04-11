@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuBtn.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="menuBtn0" x="2" y="2" width="128" height="129" pivotX="0" pivotY="0"/>
+	<SubTexture name="menuBtn1" x="2" y="133" width="128" height="129"/>
+</TextureAtlas>

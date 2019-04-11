@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fruits.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="apple" x="2" y="2" width="250" height="250" pivotX="0" pivotY="0"/>
+	<SubTexture name="avacado" x="254" y="2" width="250" height="250" pivotX="0" pivotY="0"/>
+	<SubTexture name="ball" x="2" y="254" width="225" height="225" pivotX="0" pivotY="0"/>
+	<SubTexture name="dog" x="229" y="254" width="250" height="250" pivotX="0" pivotY="0"/>
+	<SubTexture name="grape" x="2" y="506" width="251" height="250" pivotX="0" pivotY="0"/>
+	<SubTexture name="pineapple" x="255" y="506" width="225" height="225" pivotX="0" pivotY="0"/>
+</TextureAtlas>

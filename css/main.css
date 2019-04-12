@@ -213,8 +213,8 @@
     right: 0;
 }
 .img_main img{
-        width: 320px;
-    left: -93px;
+        width: 100%;
+    left: 0px;
     
     position: relative;
      vertical-align: middle;

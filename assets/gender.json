@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"female":
+{
+	"frame": {"x":0,"y":0,"w":408,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":408,"h":350},
+	"sourceSize": {"w":408,"h":350}
+},
+"male":
+{
+	"frame": {"x":0,"y":355,"w":314,"h":343},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":314,"h":343},
+	"sourceSize": {"w":314,"h":343}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "gender.png",
+	"format": "RGBA8888",
+	"size": {"w":415,"h":720},
+	"scale": "1"
+}
+}

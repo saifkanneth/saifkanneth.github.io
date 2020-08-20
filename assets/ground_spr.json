@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"ground1":
+{
+	"frame": {"x":1961,"y":1784,"w":911,"h":888},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":911,"h":888},
+	"sourceSize": {"w":911,"h":888}
+},
+"ground2":
+{
+	"frame": {"x":0,"y":1784,"w":1956,"h":888},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1956,"h":888},
+	"sourceSize": {"w":1956,"h":888}
+},
+"ground3":
+{
+	"frame": {"x":0,"y":0,"w":2109,"h":887},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2109,"h":887},
+	"sourceSize": {"w":2109,"h":887}
+},
+"ground4":
+{
+	"frame": {"x":0,"y":892,"w":1960,"h":887},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1960,"h":887},
+	"sourceSize": {"w":1960,"h":887}
+},
+"ground5":
+{
+	"frame": {"x":1965,"y":892,"w":913,"h":887},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":913,"h":887},
+	"sourceSize": {"w":913,"h":887}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "ground_spr.png",
+	"format": "RGBA8888",
+	"size": {"w":2900,"h":2700},
+	"scale": "1"
+}
+}

@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"orange":
+{
+	"frame": {"x":0,"y":27,"w":21,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":18},
+	"sourceSize": {"w":21,"h":18}
+},
+"white":
+{
+	"frame": {"x":26,"y":27,"w":18,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":16},
+	"sourceSize": {"w":18,"h":16}
+},
+"yellow":
+{
+	"frame": {"x":0,"y":0,"w":26,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":22},
+	"sourceSize": {"w":26,"h":22}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "flames.png",
+	"format": "RGBA8888",
+	"size": {"w":53,"h":50},
+	"scale": "1"
+}
+}

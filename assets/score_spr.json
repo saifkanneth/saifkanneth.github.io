@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"flag":
+{
+	"frame": {"x":1405,"y":0,"w":56,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":60},
+	"sourceSize": {"w":56,"h":60}
+},
+"hand":
+{
+	"frame": {"x":1466,"y":0,"w":43,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":64},
+	"sourceSize": {"w":43,"h":64}
+},
+"life":
+{
+	"frame": {"x":1457,"y":69,"w":47,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":41},
+	"sourceSize": {"w":47,"h":41}
+},
+"life_holder":
+{
+	"frame": {"x":1405,"y":69,"w":47,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":41},
+	"sourceSize": {"w":47,"h":41}
+},
+"score_holder":
+{
+	"frame": {"x":0,"y":0,"w":1400,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":112},
+	"sourceSize": {"w":1400,"h":112}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "score_spr.png",
+	"format": "RGBA8888",
+	"size": {"w":1520,"h":120},
+	"scale": "1"
+}
+}

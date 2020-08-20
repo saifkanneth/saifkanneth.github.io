@@ -1,0 +1,75 @@
+{"frames": {
+
+    "character00":
+    {
+        "frame": {"x":0,"y":0,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    },
+    "character01":
+    {
+        "frame": {"x":79,"y":0,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    },
+    "character02":
+    {
+        "frame": {"x":0,"y":121,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    },
+    "character03":
+    {
+        "frame": {"x":79,"y":121,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    },
+    "character04":
+    {
+        "frame": {"x":0,"y":242,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    },
+    "character05":
+    {
+        "frame": {"x":79,"y":242,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    },
+    "character06":
+    {
+        "frame": {"x":0,"y":363,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    },
+    "character07":
+    {
+        "frame": {"x":79,"y":363,"w":74,"h":116},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":74,"h":116},
+        "sourceSize": {"w":74,"h":116}
+    }},
+    "meta": {
+        "app": "Adobe Animate",
+        "version": "19.0.0.326",
+        "image": "character_male.png",
+        "format": "RGBA8888",
+        "size": {"w":174,"h":512},
+        "scale": "1"
+    }
+    }
